@@ -6,17 +6,17 @@ https://user-images.githubusercontent.com/84607354/132016783-628e452f-1d31-4aa5-
 ### HOME PAGE<br/>
     •  Where the user will enter their details such as
  
-       1. Age, 
-       2. Workclass,
-       3. Education,
-       4. Marital-status,
-       5. Occupation,
-       6. Relationship,
-       7. Race,
-       8. Sex,
-       9. Capital gain,
-       10. Capital loss,
-       11. Hours per week,
+       1. Age
+       2. Workclass
+       3. Educatio
+       4. Marital-status
+       5. Occupation
+       6. Relationship
+       7. Race
+       8. Sex
+       9. Capital gain
+       10. Capital loss
+       11. Hours per week
        12. Country
 
  
