@@ -1,8 +1,3 @@
-CAR-PREDICTION
-# <img src="https://user-images.githubusercontent.com/84607354/131432422-86f825c6-1116-4f2b-a274-5eb6afeb5e5e.png" width="40"> Adult Census Income Prediction
-
-https://user-images.githubusercontent.com/84607354/132016783-628e452f-1d31-4aa5-83c5-3d775f1e7f62.mp4
-
 ### HOME PAGE<br/>
     •  Where the user will enter their details such as
  
@@ -55,13 +50,6 @@ other libaries which are all required for this project
 •  The Web framework is made using flask in python<br/>
 •  Web framework is deployed in Heroku <br/>
 •  https://salarycountry.herokuapp.com/<br/>
-
-## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40"> Contributors 
-•   Susan Elizabeth Varghese<br/>
-•  Milind Sai C<br/>
-•  Jebin R<br/>
-•  Marchetty Pavan Sai <br/>
-•  Satyajeet Narayan<br/>
 
 ## <img src="https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?cs=srgb&dl=pexels-pixabay-357514.jpg&fm=jpg" width="40"> Documents 
 
