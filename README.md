@@ -30,7 +30,7 @@
 •  Flask is used to make web application.
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131429691-71f3d5fc-dea0-4b12-98b6-f4b13ed2de3f.png" width="40" > Dataset
-•  Dataset is provided by the iNeuron.<br/>
+•  Dataset is got in kaggle. <br/>
 •  https://www.kaggle.com/overload10/adult-census-dataset
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131429508-6ff8e3e0-7968-477f-9afe-0f946849e396.png" width="40"> Data Visualization
